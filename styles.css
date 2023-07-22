@@ -1,0 +1,165 @@
+/* Your existing CSS code goes here */
+
+.size {
+    font-style: italic;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 22px;
+    color: rgb(25, 255, 255);
+}
+
+.col {
+    color: white;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.image:hover{
+    height: 250px;;
+    width : 200px; 
+}
+
+.bg {
+    border-style: solid;
+    border-color:  rgb(239, 40, 120);
+    width: 300px;
+    margin: 21px;
+    text-align: center;
+    padding: 12px;
+    border-radius: 12px;
+}
+ 
+
+.main {
+    
+    font-size: 20px;
+}
+
+.but {
+    background-color: skyblue;
+    color: rgb(2, 255, 255);
+    border-color: hwb(149 0% 0%);
+    font-weight: bold;
+    border-width: 3px;
+}
+
+.cart-container {
+    margin-top: 30px;
+}
+
+.cart-container h2 {
+    text-align: center;
+}
+
+.cart-container #cart-count {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.cart-item {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.remove-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.imagesize {
+    height: 160px;
+    width: 160px
+}
+
+.size {
+    font-weight: bold;
+}
+
+.m {
+    margin-top: 58px;
+    margin-bottom: 58px;
+}
+
+.imgs {
+    height: 500px;
+    width: 500px;
+    gap: 2.5rem;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.heading {
+    color: rgb(250, 87, 90);
+    text-align: center;
+    font-weight: bold;
+}
+
+.sub-head {
+    color: black;
+    font-weight: bold;
+
+}
+
+.footer-section {
+    background-color: black;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding: 30px;
+    padding-left: 27px;
+}
+
+.follow-us-section {
+    background-color: skyblue;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.clr {
+    font-size: 30px
+}
+
+.imagesize1 {
+    height: 100px;
+    width: 100px
+}
+
+.m {
+    margin-bottom: 12px;
+    width: 100%;
+}
